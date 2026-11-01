@@ -19,3 +19,7 @@ venv/
 # Environment and editor files
 .env
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
